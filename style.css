@@ -331,7 +331,7 @@ li{
 
 #img4{
     position: relative;
-    width: 34vw;
+    width: 35vw;
     height: 60vh;
     margin: 0.8vw;
     margin-bottom: 3vh;
@@ -347,7 +347,7 @@ li{
 
 #img5{
     position: relative;
-    width: 34.5vw;
+    width: 34vw;
     height: 60vh;
     margin: 0.8vw;
     margin-bottom: 3vh;
@@ -357,14 +357,14 @@ li{
     background-size: 140vh;
     animation: backgroundmovesubir2 56s both infinite;
     float: left;
-    left: 3vw;
+    left: 4vw;
     transition: transform 1s;
     transform-origin: bottom center;
 }
 
 #img6{
     position: relative;
-    width: 34vw;
+    width: 35vw;
     height: 60vh;
     margin: 0.8vw;
     border: goldenrod solid 1px;
