@@ -357,7 +357,7 @@ li{
     background-size: 140vh;
     animation: backgroundmovesubir2 56s both infinite;
     float: left;
-    left: 2vw;
+    left: 3vw;
     transition: transform 1s;
     transform-origin: bottom center;
 }
