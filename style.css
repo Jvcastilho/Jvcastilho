@@ -347,7 +347,7 @@ li{
 
 #img5{
     position: relative;
-    width: 35vw;
+    width: 34.5vw;
     height: 60vh;
     margin: 0.8vw;
     margin-bottom: 3vh;
@@ -357,7 +357,7 @@ li{
     background-size: 140vh;
     animation: backgroundmovesubir2 56s both infinite;
     float: left;
-    left: 4vw;
+    left: 3vw;
     transition: transform 1s;
     transform-origin: bottom center;
 }
