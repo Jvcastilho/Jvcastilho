@@ -403,7 +403,7 @@ li{
     position: relative;
     background-size: cover;
     transition: transform 1s;
-    z-index: 10;s;
+    z-index: 10;
     transform: scale(2);
     transform-origin: center left;
 }
