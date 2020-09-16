@@ -342,7 +342,8 @@ li{
     animation: backgroundmovesubir2 71s both infinite;
     float: left;
     transition: transform 1s;
-    transform-origin: bottom left;
+    transform-origin: center left;
+    z-index: 9;
 }
 
 #img5{
@@ -359,7 +360,8 @@ li{
     float: left;
     left: 4vw;
     transition: transform 1s;
-    transform-origin: bottom center;
+    transform-origin: center center;
+    z-index: 8;
 }
 
 #img6{
@@ -375,7 +377,8 @@ li{
     float: right;
     left: 2vw;
     transition: transform 1s;
-    transform-origin: bottom right;
+    transform-origin: center right;
+    z-index: 9;
 }
 
 #img6:hover{
@@ -384,7 +387,7 @@ li{
     transition: transform 1s;
     z-index: 10;
     transform: scale(2);
-    transform-origin: bottom right;
+    transform-origin: center right;
 }
 
 #img5:hover{
@@ -393,7 +396,7 @@ li{
     transition: transform 1s;
     z-index: 10;
     transform: scale(2);
-    transform-origin: bottom center;
+    transform-origin: center center;
 }
 
 #img4:hover{
@@ -402,12 +405,11 @@ li{
     transition: transform 1s;
     z-index: 10;s;
     transform: scale(2);
-    transform-origin: bottom left;
+    transform-origin: center left;
 }
 
 #legenda4{
     font-size: 0.4em;
-    background-color: white;
     position: relative;
     width: 35vw;
     height: 7vh;
@@ -419,7 +421,6 @@ li{
 
 #legenda5{
     font-size: 0.4em;
-    background-color: white;
     position: relative;
     width: 35vw;
     height: 7vh;
@@ -434,7 +435,6 @@ li{
 
 #legenda6{
     font-size: 0.4em;
-    background-color: white;
     position: relative;
     width: 35vw;
     height: 7vh;
