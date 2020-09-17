@@ -411,7 +411,7 @@ li{
 #legenda4{
     font-size: 0.4em;
     position: relative;
-    width: 33.5vw;
+    width: 30%;
     height: 7vh;
     margin: 0.8vw;
     border: goldenrod solid 0px;
@@ -422,7 +422,7 @@ li{
 #legenda5{
     font-size: 0.4em;
     position: relative;
-    width: 33.5vw;
+    width: 30%;
     height: 7vh;
     margin: 0.8vw;
     border: goldenrod solid 0px;
@@ -436,13 +436,13 @@ li{
 #legenda6{
     font-size: 0.4em;
     position: relative;
-    width: 33.5vw;
+    width: 30%;
     height: 7vh;
     margin: 0.8vw;
     border: goldenrod solid 0px;
     overflow: auto;
     float: left;
-    left: 10vw;
+    left: 11vw;
     text-align: end;
 }
 
