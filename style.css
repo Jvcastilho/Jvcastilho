@@ -331,7 +331,7 @@ li{
 
 #img4{
     position: relative;
-    width: 34vw;
+    width: 33.5vw;
     height: 60vh;
     margin: 0.8vw;
     margin-bottom: 3vh;
@@ -348,7 +348,7 @@ li{
 
 #img5{
     position: relative;
-    width: 34vw;
+    width: 33.5vw;
     height: 60vh;
     margin: 0.8vw;
     margin-bottom: 3vh;
@@ -358,7 +358,7 @@ li{
     background-size: 140vh;
     animation: backgroundmovesubir2 56s both infinite;
     float: left;
-    left: 4vw;
+    left: 3vw;
     transition: transform 1s;
     transform-origin: center center;
     z-index: 8;
@@ -411,7 +411,7 @@ li{
 #legenda4{
     font-size: 0.4em;
     position: relative;
-    width: 34vw;
+    width: 33.5vw;
     height: 7vh;
     margin: 0.8vw;
     border: goldenrod solid 0px;
@@ -422,7 +422,7 @@ li{
 #legenda5{
     font-size: 0.4em;
     position: relative;
-    width: 34vw;
+    width: 33.5vw;
     height: 7vh;
     margin: 0.8vw;
     border: goldenrod solid 0px;
@@ -436,7 +436,7 @@ li{
 #legenda6{
     font-size: 0.4em;
     position: relative;
-    width: 34vw;
+    width: 33.5vw;
     height: 7vh;
     margin: 0.8vw;
     border: goldenrod solid 0px;
