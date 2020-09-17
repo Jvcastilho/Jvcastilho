@@ -13,8 +13,8 @@ body{
     width: 100%;
     height: 40em;
     background: url(img/capapraticasobsoletas-02.png);
-    background-size: contain;
-    animation: capa 35s both infinite ease-in-out;
+    background-size: 300vh;
+    animation: backgroundmove 35s both infinite ease-in-out;
 
 }
 
