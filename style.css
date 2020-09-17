@@ -358,7 +358,7 @@ li{
     background-size: 140vh;
     animation: backgroundmovesubir2 56s both infinite;
     float: left;
-    left: 3vw;
+    left: 6vw;
     transition: transform 1s;
     transform-origin: center center;
     z-index: 8;
@@ -374,8 +374,8 @@ li{
     background-image: url(img/blood.jpg);
     background-size: 90vh;
     animation: backgroundmovesubir2 61s both infinite;
-    float: right;
-    left: 2vw;
+    float: left;
+    left: 11vw;
     transition: transform 1s;
     transform-origin: center right;
     z-index: 9;
@@ -428,7 +428,7 @@ li{
     border: goldenrod solid 0px;
     overflow: auto;
     float: left;
-    left: 4vw;
+    left: 6vw;
     text-align: center;
     
 }
@@ -441,8 +441,8 @@ li{
     margin: 0.8vw;
     border: goldenrod solid 0px;
     overflow: auto;
-    float: right;
-    left: 2vw;
+    float: left;
+    left: 10vw;
     text-align: end;
 }
 
