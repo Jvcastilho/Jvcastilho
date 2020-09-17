@@ -479,6 +479,8 @@ li{
     margin-bottom: 5vh;
     padding: 1%;
     float: left;
+    max-height: 120vh;
+    overflow: auto;
 
 }
 
