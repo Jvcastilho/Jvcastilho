@@ -331,7 +331,7 @@ li{
 
 #img4{
     position: relative;
-    width: 33vw;
+    width: 30%;
     height: 60vh;
     margin: 0.8vw;
     margin-bottom: 3vh;
@@ -348,7 +348,7 @@ li{
 
 #img5{
     position: relative;
-    width: 33vw;
+    width: 30%;
     height: 60vh;
     margin: 0.8vw;
     margin-bottom: 3vh;
@@ -358,7 +358,7 @@ li{
     background-size: 140vh;
     animation: backgroundmovesubir2 56s both infinite;
     float: left;
-    left: 6vw;
+    left: 5.5vw;
     transition: transform 1s;
     transform-origin: center center;
     z-index: 8;
@@ -366,7 +366,7 @@ li{
 
 #img6{
     position: relative;
-    width: 33vw;
+    width: 30%;
     height: 60vh;
     margin: 0.8vw;
     border: goldenrod solid 1px;
@@ -428,7 +428,7 @@ li{
     border: goldenrod solid 0px;
     overflow: auto;
     float: left;
-    left: 6vw;
+    left: 5.5vw;
     text-align: center;
     
 }
